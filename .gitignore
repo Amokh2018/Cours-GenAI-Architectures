@@ -1,0 +1,4 @@
+.venv
+__pycache__/
+*.pyc
+Lab3_RAG_GCP_RAGAS.ipynb
